@@ -1,0 +1,94 @@
+header {
+    background-color: #d40a0a;
+    padding: 2px;
+    text-align: center;
+}
+body {
+    background-image: url('asset/bg.jpg'); /* Ganti dengan path gambar Anda */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* Gaya CSS lainnya */
+    color: #070000;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+   
+}
+
+#calculator {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 50px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #e50e0efd;
+}
+#calculator2 {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 50px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fbf9f9;
+}
+
+label {
+    display: block;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #173cd0;
+}
+
+button1 {
+    background-color: #b80c20;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button1:hover {
+    background-color: #2f0a0f;
+}
+
+#rumus {
+    margin-top: 20px;
+    font-weight: bold;
+}
+rumus1 {
+    margin-top: 20px;
+    font-weight: bold;
+}
+rumus2 {
+    margin-top: 20px;
+    font-weight: bold;
+}
+rumus3 {
+    margin-top: 20px;
+    font-weight: bold;
+}
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
